@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Textshot
+GenericName=Screen Text Grabber
+Comment=Select an area of the screen and copy its text (OCR)
+Exec=@BIN@ %f
+Icon=@ICON@
+Terminal=false
+Categories=Utility;Graphics;
+Keywords=ocr;text;screenshot;copy;capture;scan;
+MimeType=image/png;image/jpeg;image/webp;image/bmp;
+StartupNotify=false
